@@ -1,9 +1,8 @@
 
 ### Helloo guys, it's me Kiran 👋<img align="right" src="https://komarev.com/ghpvc/?username=ottaplackan&color=blue&label=Stalkers ">
 
-Here are some ideas to get you started:
 
-- 🌱 Learning everyday, currently learning to master django, vue.js..
+- 🌱 Learning everyday, currently learning to master react.js..
 - 📬 How to reach me: <a href="mailto:kirankurian2023@cs.sjcetpalai.ac.in">Let's get in touch!</a>
 
 ### Other places you can find me

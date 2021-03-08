@@ -1,5 +1,5 @@
 
-### Hi there, it's me Kiran 👋<img align="right" src="https://komarev.com/ghpvc/?username=ottaplackan&color=blue&label=Stalkers ">
+### Helloo guys, it's me Kiran 👋<img align="right" src="https://komarev.com/ghpvc/?username=ottaplackan&color=blue&label=Stalkers ">
 
 Here are some ideas to get you started:
 
